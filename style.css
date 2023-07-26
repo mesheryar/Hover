@@ -1,0 +1,30 @@
+.hover-1{
+    line-height: 3rem;
+    color: #0000;
+    text-shadow:0 0 #1095c1,0 1.2em #ff0000;
+    overflow: hidden;
+    transition: 1s;
+    text-align: center;
+    margin: auto;
+    font-size: 60px;
+}
+.hover-1:hover{
+    text-shadow: 0 -1.2em  #1095c1,0 0 #ff0000;
+
+}
+.hover-2{
+    line-height: 3rem;
+    color: #0000;
+    text-shadow: 0 0 #ff8800,
+    0 1.2em #ff0000 ;
+    overflow: hidden;
+    transition: 1s;
+    text-align: center;
+    margin: auto;
+    font-size: 60px;
+    margin-top: 10px;
+}
+.hover-2:hover{
+    text-shadow: 0 -1.2em #ff8800 ,0 0 #ff0000;
+    
+}
